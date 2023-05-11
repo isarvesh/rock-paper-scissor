@@ -44,6 +44,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - Built using React: [React](https://reactjs.org)
-- UI inspiration: [Your Inspiration Source](https://your-inspiration-source.com)
+
 
 GitHub Link: [https://github.com/isarvesh/rock-paper-scissor.git](https://github.com/isarvesh/rock-paper-scissor.git)
